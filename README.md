@@ -2,6 +2,7 @@
 
 
 🚨 Features
+
 Dynamic Flanking – Officers are assigned roles (Chaser or Interceptor). Interceptors attempt to predict your route and cut you off from the sides or ahead.
 Path Unstucking – AI recalculates paths if stuck, helping them navigate tricky terrain or corners better.
 Arrest Logic Tweaks – Fine-tuned radius and progress speed for arrests makes evading a close-range officer nearly impossible.
